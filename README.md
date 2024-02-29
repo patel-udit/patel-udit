@@ -21,9 +21,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I recently graduated with a <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NhNXdqeHJ4M2VwaDJuYXVlcnAwcXY1bzRhMDl0ZnBvOG9vZzRlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENzElhl495Xl0WQAv/giphy.gif" width = "30"> Bachelor's degree in Computer Science from The Pennsylvania State University.
+
+- :telescope: I’m looking for an Entry level position as an Software Engineer or similar roles  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
